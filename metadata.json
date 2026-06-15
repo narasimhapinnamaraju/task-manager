@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager Pro",
+  "description": "Full-stack Task Management Application with MongoDB, Express, React, and Node.js",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
